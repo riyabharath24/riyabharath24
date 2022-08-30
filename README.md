@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @riyabharath24
-- 👀 I’m interested in ...Data Science and Python Programming
-- 🌱 I’m currently learning ...Data structures, Data Science and Python Programming
+-  Aspiring Data Scientist
+-  Currently specialize in Data Science, Machine Learning and NLP
 - 📫 How to reach me ...email: riya.bharath24@gmail.com
 
 <!---
