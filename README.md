@@ -1,8 +1,7 @@
 # 👋 Hi, I’m Riya Bharathwaj
--  I'm an Aspiring Data Scientist
--  Currently specialize in Data Science, Machine Learning and NLP
--  Looking to work towards learning Javascript and React in the Future
-- 📫 How to reach me ...email: riya.bharath24@gmail.com
+I'm a third year Computer Science student at SRMIST, currently specializing in Big Data Analytics. My fields of interest include Data Science, Machine Learning and Python Programming. I am ready to collaborate on any project related to Data Science, Data Analytics and Natural Language Processing. I have just begun to explore the fields of Deep Learning and Computer Vision as well! I have also developed an interest in learning Front End Development and am looking to learn React in the future!
+
+📫 Email: riya.bharath24@gmail.com
 
 ---
 
