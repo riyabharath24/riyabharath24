@@ -1,7 +1,16 @@
 - 👋 Hi, I’m @riyabharath24
--  Aspiring Data Scientist
+-  I'm an Aspiring Data Scientist
 -  Currently specialize in Data Science, Machine Learning and NLP
+-  Looking to work towards learning Javascript and React in the Future
 - 📫 How to reach me ...email: riya.bharath24@gmail.com
+
+---
+
+Tech:
+<img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' width=50 height=50/> <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' width=50 height=50>
+
+
+---
 
 ### :fire: My Stats :
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riyabharath24&theme=radical)
