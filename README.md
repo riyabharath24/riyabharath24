@@ -19,7 +19,8 @@ Portfolio: https://riyabharath24.wixsite.com/my-site
 ### :fire: My Stats :
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riyabharath24&theme=radical)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=riyabharath24&theme=dark&background=000000)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=riyabharath24&theme=dark)](https://git.io/streak-stats)
+
 
 ---
 
