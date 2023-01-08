@@ -36,6 +36,8 @@ Portfolio: https://riyabharath24.wixsite.com/my-site
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=riyabharath24&theme=onestar)
 
+![](https://komarev.com/ghpvc/?username=riyabharath24)
+
 <!---
 riyabharath24/riyabharath24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
