@@ -1,5 +1,6 @@
 # 👋 Hi, I’m Riya Bharathwaj
 I'm an aspiring Data Scientist and an undergraduate from SRMIST. Having majored in Computer Science with specializing in Big Data Analytics, my fields of interest include Data Science, Machine Learning, Deep Learning and MLOPS. I am ready to collaborate on any project related to Data Science, Data Analytics and Natural Language Processing. Working in wider domains such as MLOPS and Cloud Technologies has inspired me to expand my tech stack and venture into upcoming domains such as Generative AI. 
+
 📫 Email: riya.bharath24@gmail.com
 
 Portfolio: https://riyabharath24.wixsite.com/my-site
