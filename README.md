@@ -3,7 +3,7 @@ Master’s student in Analytics with a background in Computer Science and Big Da
 
 📫 Email: riya.bharath24@gmail.com
 
-Portfolio: [https://riyabharath24.wixsite.com/my-site](https://riyabharath24.github.io)
+Portfolio: [https://riyabharath24.github.io]
 
 ---
 
